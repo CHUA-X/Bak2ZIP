@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/Bak2ZIP.egg-info/PKG-INFO
+src/Bak2ZIP.egg-info/SOURCES.txt
+src/Bak2ZIP.egg-info/dependency_links.txt
+src/Bak2ZIP.egg-info/top_level.txt
+src/bak2zip/__init__.py

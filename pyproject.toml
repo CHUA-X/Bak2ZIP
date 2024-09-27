@@ -1,0 +1,26 @@
+[project]
+name = "Bak2ZIP"
+version = "0.0.1"
+authors = [
+  { name="CHUA某人", email="chua-x@outlook.com" },
+]
+description = "Bak2ZIP ——一键备份你的所有重要文件，让你不再为丢失文件而烦恼！"
+readme = "README.md"
+requires-python = ">=3.6"
+classifiers=[
+        "Development Status :: 3 - Alpha",
+        "Programming Language :: Python",
+        "Programming Language :: Python :: 3",
+        "Programming Language :: Python :: 3 :: Only",
+        "License :: OSI Approved :: MIT License",
+        "Natural Language :: Chinese (Simplified)",
+        "Natural Language :: English",
+        "Operating System :: Unix",
+        "Operating System :: POSIX :: Linux",
+        "Operating System :: MacOS :: MacOS X",
+        "Operating System :: Microsoft :: Windows",
+    ]
+
+[project.urls]
+"Homepage" = "https://github.com/CHUA-X/Bak2ZIP"
+"Bug Tracker" = "https://github.com/CHUA-X/Bak2ZIP/issues"
